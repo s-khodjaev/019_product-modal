@@ -2,4 +2,4 @@
 
 Product Modal mini-project from my Tailwind course.
 
-![Alt text](images/product-modal.png)
+<img src="img/product-modal.png">
